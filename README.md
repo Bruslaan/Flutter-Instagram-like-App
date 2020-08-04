@@ -13,12 +13,12 @@ Feed /
 Abstimmung / Umfrage /
 Feed Filter /
 
+<img src="demo/1.png" alt="alt text" width="250">
+<img src="demo/2.png" alt="alt text" width="250">
+<img src="demo/3.png" alt="alt text" width="250">
+<img src="demo/4.png" alt="alt text" width="250">
+<img src="demo/5.png" alt="alt text" width="250">
 
-![Alt text](demo/1.png?raw=true "Feeds")
-![Alt text](demo/2.png?raw=true "Feeds")
-![Alt text](demo/3.png?raw=true "Feeds")
-![Alt text](demo/4.png?raw=true "Feeds")
-![Alt text](demo/5.png?raw=true "Feeds")
 
 
 
